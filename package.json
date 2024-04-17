@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "cypress": "^13.7.3",
+    "cypress-downloadfile": "^1.2.3"
+  }
+}
